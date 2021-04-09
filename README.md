@@ -9,8 +9,8 @@ The dataset was provided by the CERN. The file name used here is: 'E2E_Regressio
     - Target: 5139 values
 
 - For validation:
-Input: 1284 images for size 125x125 and 4 channels
-Target: 1284 values
+    - Input: 1284 images for size 125x125 and 4 channels
+    - Target: 1284 values
 
 
 # Model Description
