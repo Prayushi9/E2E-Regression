@@ -17,10 +17,6 @@ The dataset was provided by the CERN. The file name used here is: 'E2E_Regressio
 The model and code description is mentioned in the table below:
 <table>
     <tr>
-        <td>Dataset</td>
-        <td>E2E_Regression.parquet.9</td>
-    </tr>
-    <tr>
         <td>DL Framework</td>
         <td>Keras</td>
     </tr>
