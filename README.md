@@ -3,11 +3,12 @@ A deep learning model (CNN) build to estimate/regress the mass of the particle b
 
 # Dataset description
 The dataset was provided by the CERN. The file name used here is: 'E2E_Regression.parquet.9' where the 'X_jet' was the input image and 'am' was the mass of the particle used as target.
-For training:
+
+- For training:
 Input: 5139 images for size 125x125 and 4 channels
 Target: 5139 values
 
-For validation:
+- For validation:
 Input: 1284 images for size 125x125 and 4 channels
 Target: 1284 values
 
