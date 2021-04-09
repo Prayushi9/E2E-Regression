@@ -73,7 +73,7 @@ The model and code description is mentioned in the table below:
         <td>mae</td>
     </tr>
         <tr>
-        <td>Train</td>
+        <td>Train set</td>
         <td>0.0030</td>
         <td>1.1389</td>
         <td>0.0030</td>
@@ -81,7 +81,7 @@ The model and code description is mentioned in the table below:
     </tr>
     </tr>
         <tr>
-        <td>Validation</td>
+        <td>Validation set</td>
         <td>0.0483</td>
         <td>4.8653</td>
         <td>0.0483</td>
