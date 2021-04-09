@@ -1,6 +1,8 @@
 # E2E-Regression
 
+
 # Model Description
+The model and code description is mentioned in the table below:
 <table>
     <tr>
         <td>DL Framework</td>
@@ -48,3 +50,32 @@
     </tr>    
       
 </table>
+
+# Results
+<table>
+    <tr>
+        <td>Dataset</td>
+        <td>Loss</td>
+        <td>mape</td>
+        <td>mse</td>
+        <td>mae</td>
+    </tr>
+    
+    <tr>
+        <td>Train</td>
+        <td>0.0030</td>
+        <td>1.1389</td>
+        <td>0.0030</td>
+        <td>0.0436</td>
+    </tr>
+    
+    <tr>
+        <td>Validation</td>
+        <td>0.0483</td>
+        <td>4.8653</td>
+        <td>0.0483</td>
+        <td>0.1885</td>
+    </tr>
+       
+</table>
+
