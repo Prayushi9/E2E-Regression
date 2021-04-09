@@ -60,6 +60,13 @@ The model and code description is mentioned in the table below:
         <td>mse</td>
         <td>mae</td>
     </tr>
+        <tr>
+        <td>Dataset</td>
+        <td>Loss</td>
+        <td>mape</td>
+        <td>mse</td>
+        <td>mae</td>
+    </tr>
     
 </table>
 
