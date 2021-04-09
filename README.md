@@ -1,9 +1,13 @@
 # E2E-Regression
-
+A deep learning model (CNN) build to estimate/regress the mass of the particle based on particle images.
 
 # Model Description
 The model and code description is mentioned in the table below:
 <table>
+    <tr>
+        <td>Dataset</td>
+        <td>E2E_Regression.parquet.9</td>
+    </tr>
     <tr>
         <td>DL Framework</td>
         <td>Keras</td>
